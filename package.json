@@ -1,0 +1,19 @@
+{
+  "name": "coffee-api",
+  "version": "1.0.0",
+  "description": "Coffee API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coffee",
+    "javascript",
+    "rest",
+    "node",
+    "library",
+    "framework"
+  ],
+  "author": "Malik Nurmatov <mnurmatov@gmail.com> (https://github.com/maliknurmatov)",
+  "license": "BSD-2-Clause"
+}
